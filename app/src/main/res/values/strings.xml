@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PopupWindow</string>
+    <string-array name="planets_array">
+        <item>Surat</item>
+        <item>Valsad</item>
+        <item>Daman</item>
+        <item>Navsari</item>
+        <item>Vapi</item>
+        <item>Bardoli</item>
+        <item>Bharuch</item>
+        <item>Mumbai</item>
+    </string-array>
+</resources>
